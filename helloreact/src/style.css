@@ -1,0 +1,17 @@
+.activeElement {
+    color: black;
+    background-color: white;
+    border: 1px solid darkgray;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+}
+
+.inActiveElement {
+    color: lightgray;
+    background-color: white;
+    border: 1px solid rgb(234, 18, 18);
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+}
