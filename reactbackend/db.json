@@ -1,0 +1,69 @@
+{
+  "todo": [
+    {
+      "id": "1",
+      "title": "Learn Angular",
+      "completed": false
+    },
+    {
+      "id": "2",
+      "title": "Learn Node",
+      "completed": false
+    },
+    {
+      "id": "6d7d",
+      "title": "Create the weekly report",
+      "completed": false
+    },
+    {
+      "id": "5e09",
+      "title": "Plan for next week tasks",
+      "completed": false
+    },
+    {
+      "id": "a59d",
+      "title": "test",
+      "completed": false
+    },
+    {
+      "id": "ec2b",
+      "title": "monday",
+      "completed": false
+    },
+    {
+      "id": "f005",
+      "title": ".Net Core",
+      "completed": false
+    },
+    {
+      "id": "1b10",
+      "title": "test .net",
+      "completed": false
+    },
+    {
+      "id": "1de5",
+      "title": "Create plan for AI implementation",
+      "completed": false
+    },
+    {
+      "id": "5fa8",
+      "title": "Create plan for ML implementaiton",
+      "completed": false
+    },
+    {
+      "id": "5a72",
+      "title": "test",
+      "completed": false
+    },
+    {
+      "id": "fb6e",
+      "title": "test",
+      "completed": false
+    },
+    {
+      "id": "ac0e",
+      "title": "Create a sample app",
+      "completed": false
+    }
+  ]
+}
